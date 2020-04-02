@@ -1,0 +1,18 @@
+#title-table {  /* TÍTULO DA LISTA, INDEX */
+    font-family: 'Times New Roman', Times, serif;
+}
+#jumbotron { /* CAIXA TEXTO PRINCIPAL INDEX */
+    background-color: #003669!important;
+}
+
+#titlejumbo { /* ALTERANDO APENAS O TÍTULO DENTRO DA CAIXA DE TEXTO DO INDEX */
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+#titleform { /* TITULO GUIA CONTATO */
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.map-container iframe{
+    height:100%;
+    width:100%;
+}
